@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI;EACF,WAAW,EAAE,UAAU;;AAIvB,QAAE;EACA,OAAO,EAAE,GAAG",
+"sources": ["src/index.scss"],
+"names": [],
+"file": "JSON"
+}
